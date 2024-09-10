@@ -1,0 +1,1389 @@
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+RC: [8, 4, 168]
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 144,
+      "oscillator_temp": 16384
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 192,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 72,
+      "oscillator_temp": 36864
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+ADCS State: {
+  "AdcsStateAll": {
+    "attitude_estimation_mode": "Magmeter",
+    "control_mode": "None",
+    "adcs_run_mode": "Enabled",
+    "asgp4_mode": "Off",
+    "cube_control_signal_enabled": true,
+    "cube_control_motor_enabled": true,
+    "cube_sense1_enabled": false,
+    "cube_sense2_enabled": false,
+    "cube_wheel1_enabled": false,
+    "cube_wheel2_enabled": false,
+    "cube_wheel3_enabled": false,
+    "cube_star_enabled": false,
+    "gps_receiver_enabled": false,
+    "gps_lna_power_enabled": false,
+    "motor_driver_enabled": false,
+    "sun_is_above_local_horizon": true,
+    "cube_sense1_communication_error": false,
+    "cube_sense2_communication_error": false,
+    "cube_control_signal_communications_error": false,
+    "cube_control_motor_communications_error": false,
+    "cube_wheel1_communications_error": false,
+    "cube_wheel2_communications_error": false,
+    "cube_wheel3_communications_error": false,
+    "cube_star_communications_error": false,
+    "magnetometer_range_error": false,
+    "cam1_sram_overcurrent_detected": false,
+    "cam1_3v3_overcurrent_detected": false,
+    "cam1_sensor_busy_error": false,
+    "cam1_sensor_detection_error": false,
+    "sun_sensor_range_error": false,
+    "cam2_sram_overcurrent_detected": false,
+    "cam2_3v3_overcurrent_detected": false,
+    "cam2_sensor_busy_error": false,
+    "cam2_sensor_detection_error": false,
+    "nadir_sensor_range_error": false,
+    "rate_sensor_range_error": false,
+    "wheel_speed_range_error": false,
+    "coarse_sun_sensor_error": false,
+    "star_tracker_match_error": false,
+    "star_tracker_overcurrent_detected": false,
+    "orbit_parameters_are_invalid": false,
+    "configuration_is_invalid": false,
+    "control_mode_change_is_not_allowed": false,
+    "estimator_change_is_not_allowed": false,
+    "current_magnetometer_sampling_mode": "MainSignal",
+    "modelled_and_measured_magnetic_field_differs_in_size": false,
+    "node_recovery_error": false,
+    "cube_sense1_runtime_error": false,
+    "cube_sense2_runtime_error": false,
+    "cube_control_signal_runtime_error": false,
+    "cube_control_motor_runtime_error": false,
+    "cube_wheel1_runtime_error": false,
+    "cube_wheel2_runtime_error": false,
+    "cube_wheel3_runtime_error": false,
+    "cube_star_runtime_error": false,
+    "magnetometer_error": false,
+    "rate_sensor_failure": false,
+    "estimated_roll_angle": 0,
+    "estimated_pitch_angle": 0,
+    "estimated_yaw_angle": 0,
+    "estimated_q1": 0,
+    "estimated_q2": 0,
+    "estimated_q3": 0,
+    "estimated_x_angular_rate": 21,
+    "estimated_y_angular_rate": 70,
+    "estimated_z_angular_rate": -93,
+    "x_position": -13468,
+    "y_position": 4482,
+    "z_position": -21395,
+    "x_velocity": -21696,
+    "y_velocity": 15310,
+    "z_velocity": 16897,
+    "latitude": -5644,
+    "longitude": 12562,
+    "altitude": 11116,
+    "ecef_position_x": 0,
+    "ecef_position_y": 0,
+    "ecef_position_z": 0
+  }
+}
+ADCS Measurements: {
+  "AdcsMeasurements": {
+    "mag_x": -2634,
+    "mag_y": 2645,
+    "mag_z": -1380,
+    "coarse_sun_x": -7604,
+    "coarse_sun_y": 3578,
+    "coarse_sun_z": 5420,
+    "sun_x": 0,
+    "sun_y": 0,
+    "sun_z": 0,
+    "nadir_x": 0,
+    "nadir_y": 0,
+    "nadir_z": 0,
+    "ang_rate_x": 53,
+    "ang_rate_y": 50,
+    "ang_rate_z": -78,
+    "wheel_speed_x": 0,
+    "wheel_speed_y": 0,
+    "wheel_speed_z": 0,
+    "star1bx": 0,
+    "star1by": 0,
+    "star1bz": 0,
+    "star1ox": 0,
+    "star1oy": 0,
+    "star1oz": 0,
+    "star2bx": 0,
+    "star2by": 0,
+    "star2bz": 0,
+    "star2ox": 0,
+    "star2oy": 0,
+    "star2oz": 0,
+    "star3bx": 0,
+    "star3by": 0,
+    "star3bz": 0,
+    "star3ox": 0,
+    "star3oy": 0,
+    "star3oz": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+EPS: {
+  "volt_brdsup": -1,
+  "temp": -1,
+  "vip_dist_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_batt_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "stat_ch_on": 65535,
+  "stat_ch_ocf": 65535,
+  "batt_stat": 65535,
+  "batt_temp2": -1,
+  "batt_temp3": -1,
+  "volt_vd0": -1,
+  "volt_vd1": -1,
+  "volt_vd2": -1,
+  "vip_cnt_ch00": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch01": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch02": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch03": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch04": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch05": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch06": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch07": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch08": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd1": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd2": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd3": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "vip_cnt_ch09": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch10": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch11": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch12": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch13": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch14": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch15": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd4": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd5": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "stat_ch_ext_on": 65535,
+  "stat_ch_ext_ocf": 65535,
+  "vip_cnt_ch16": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+RC: [5, 4, 180]
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 9,
+      "oscillator_temp": 9216
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 384,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 32768,
+      "oscillator_temp": 4608
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+ADCS State: {
+  "AdcsStateAll": {
+    "attitude_estimation_mode": "Magmeter",
+    "control_mode": "None",
+    "adcs_run_mode": "Enabled",
+    "asgp4_mode": "Off",
+    "cube_control_signal_enabled": true,
+    "cube_control_motor_enabled": true,
+    "cube_sense1_enabled": false,
+    "cube_sense2_enabled": false,
+    "cube_wheel1_enabled": false,
+    "cube_wheel2_enabled": false,
+    "cube_wheel3_enabled": false,
+    "cube_star_enabled": false,
+    "gps_receiver_enabled": false,
+    "gps_lna_power_enabled": false,
+    "motor_driver_enabled": false,
+    "sun_is_above_local_horizon": true,
+    "cube_sense1_communication_error": false,
+    "cube_sense2_communication_error": false,
+    "cube_control_signal_communications_error": false,
+    "cube_control_motor_communications_error": false,
+    "cube_wheel1_communications_error": false,
+    "cube_wheel2_communications_error": false,
+    "cube_wheel3_communications_error": false,
+    "cube_star_communications_error": false,
+    "magnetometer_range_error": false,
+    "cam1_sram_overcurrent_detected": false,
+    "cam1_3v3_overcurrent_detected": false,
+    "cam1_sensor_busy_error": false,
+    "cam1_sensor_detection_error": false,
+    "sun_sensor_range_error": false,
+    "cam2_sram_overcurrent_detected": false,
+    "cam2_3v3_overcurrent_detected": false,
+    "cam2_sensor_busy_error": false,
+    "cam2_sensor_detection_error": false,
+    "nadir_sensor_range_error": false,
+    "rate_sensor_range_error": false,
+    "wheel_speed_range_error": false,
+    "coarse_sun_sensor_error": true,
+    "star_tracker_match_error": false,
+    "star_tracker_overcurrent_detected": false,
+    "orbit_parameters_are_invalid": false,
+    "configuration_is_invalid": false,
+    "control_mode_change_is_not_allowed": false,
+    "estimator_change_is_not_allowed": false,
+    "current_magnetometer_sampling_mode": "MainSignal",
+    "modelled_and_measured_magnetic_field_differs_in_size": false,
+    "node_recovery_error": false,
+    "cube_sense1_runtime_error": false,
+    "cube_sense2_runtime_error": false,
+    "cube_control_signal_runtime_error": false,
+    "cube_control_motor_runtime_error": false,
+    "cube_wheel1_runtime_error": false,
+    "cube_wheel2_runtime_error": false,
+    "cube_wheel3_runtime_error": false,
+    "cube_star_runtime_error": false,
+    "magnetometer_error": false,
+    "rate_sensor_failure": false,
+    "estimated_roll_angle": 0,
+    "estimated_pitch_angle": 0,
+    "estimated_yaw_angle": 0,
+    "estimated_q1": 0,
+    "estimated_q2": 0,
+    "estimated_q3": 0,
+    "estimated_x_angular_rate": 52,
+    "estimated_y_angular_rate": 78,
+    "estimated_z_angular_rate": -65,
+    "x_position": -12086,
+    "y_position": 3521,
+    "z_position": -22379,
+    "x_velocity": -22885,
+    "y_velocity": 15682,
+    "z_velocity": 14853,
+    "latitude": -6064,
+    "longitude": 12805,
+    "altitude": 11472,
+    "ecef_position_x": 0,
+    "ecef_position_y": 0,
+    "ecef_position_z": 0
+  }
+}
+ADCS Measurements: {
+  "AdcsMeasurements": {
+    "mag_x": 734,
+    "mag_y": 3357,
+    "mag_z": 1313,
+    "coarse_sun_x": 0,
+    "coarse_sun_y": 0,
+    "coarse_sun_z": 0,
+    "sun_x": 0,
+    "sun_y": 0,
+    "sun_z": 0,
+    "nadir_x": 0,
+    "nadir_y": 0,
+    "nadir_z": 0,
+    "ang_rate_x": 74,
+    "ang_rate_y": 63,
+    "ang_rate_z": -82,
+    "wheel_speed_x": 0,
+    "wheel_speed_y": 0,
+    "wheel_speed_z": 0,
+    "star1bx": 0,
+    "star1by": 0,
+    "star1bz": 0,
+    "star1ox": 0,
+    "star1oy": 0,
+    "star1oz": 0,
+    "star2bx": 0,
+    "star2by": 0,
+    "star2bz": 0,
+    "star2ox": 0,
+    "star2oy": 0,
+    "star2oz": 0,
+    "star3bx": 0,
+    "star3by": 0,
+    "star3bz": 0,
+    "star3ox": 0,
+    "star3oy": 0,
+    "star3oz": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+RC: [8, 4, 168]
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 144,
+      "oscillator_temp": 16384
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 192,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 72,
+      "oscillator_temp": 36864
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+ADCS State: {
+  "AdcsStateAll": {
+    "attitude_estimation_mode": "Magmeter",
+    "control_mode": "None",
+    "adcs_run_mode": "Enabled",
+    "asgp4_mode": "Off",
+    "cube_control_signal_enabled": true,
+    "cube_control_motor_enabled": true,
+    "cube_sense1_enabled": false,
+    "cube_sense2_enabled": false,
+    "cube_wheel1_enabled": false,
+    "cube_wheel2_enabled": false,
+    "cube_wheel3_enabled": false,
+    "cube_star_enabled": false,
+    "gps_receiver_enabled": false,
+    "gps_lna_power_enabled": false,
+    "motor_driver_enabled": false,
+    "sun_is_above_local_horizon": true,
+    "cube_sense1_communication_error": false,
+    "cube_sense2_communication_error": false,
+    "cube_control_signal_communications_error": false,
+    "cube_control_motor_communications_error": false,
+    "cube_wheel1_communications_error": false,
+    "cube_wheel2_communications_error": false,
+    "cube_wheel3_communications_error": false,
+    "cube_star_communications_error": false,
+    "magnetometer_range_error": false,
+    "cam1_sram_overcurrent_detected": false,
+    "cam1_3v3_overcurrent_detected": false,
+    "cam1_sensor_busy_error": false,
+    "cam1_sensor_detection_error": false,
+    "sun_sensor_range_error": false,
+    "cam2_sram_overcurrent_detected": false,
+    "cam2_3v3_overcurrent_detected": false,
+    "cam2_sensor_busy_error": false,
+    "cam2_sensor_detection_error": false,
+    "nadir_sensor_range_error": false,
+    "rate_sensor_range_error": false,
+    "wheel_speed_range_error": false,
+    "coarse_sun_sensor_error": false,
+    "star_tracker_match_error": false,
+    "star_tracker_overcurrent_detected": false,
+    "orbit_parameters_are_invalid": false,
+    "configuration_is_invalid": false,
+    "control_mode_change_is_not_allowed": false,
+    "estimator_change_is_not_allowed": false,
+    "current_magnetometer_sampling_mode": "MainSignal",
+    "modelled_and_measured_magnetic_field_differs_in_size": false,
+    "node_recovery_error": false,
+    "cube_sense1_runtime_error": false,
+    "cube_sense2_runtime_error": false,
+    "cube_control_signal_runtime_error": false,
+    "cube_control_motor_runtime_error": false,
+    "cube_wheel1_runtime_error": false,
+    "cube_wheel2_runtime_error": false,
+    "cube_wheel3_runtime_error": false,
+    "cube_star_runtime_error": false,
+    "magnetometer_error": false,
+    "rate_sensor_failure": false,
+    "estimated_roll_angle": 0,
+    "estimated_pitch_angle": 0,
+    "estimated_yaw_angle": 0,
+    "estimated_q1": 0,
+    "estimated_q2": 0,
+    "estimated_q3": 0,
+    "estimated_x_angular_rate": 21,
+    "estimated_y_angular_rate": 70,
+    "estimated_z_angular_rate": -93,
+    "x_position": -13468,
+    "y_position": 4482,
+    "z_position": -21395,
+    "x_velocity": -21696,
+    "y_velocity": 15310,
+    "z_velocity": 16897,
+    "latitude": -5644,
+    "longitude": 12562,
+    "altitude": 11116,
+    "ecef_position_x": 0,
+    "ecef_position_y": 0,
+    "ecef_position_z": 0
+  }
+}
+ADCS Measurements: {
+  "AdcsMeasurements": {
+    "mag_x": -2634,
+    "mag_y": 2645,
+    "mag_z": -1380,
+    "coarse_sun_x": -7604,
+    "coarse_sun_y": 3578,
+    "coarse_sun_z": 5420,
+    "sun_x": 0,
+    "sun_y": 0,
+    "sun_z": 0,
+    "nadir_x": 0,
+    "nadir_y": 0,
+    "nadir_z": 0,
+    "ang_rate_x": 53,
+    "ang_rate_y": 50,
+    "ang_rate_z": -78,
+    "wheel_speed_x": 0,
+    "wheel_speed_y": 0,
+    "wheel_speed_z": 0,
+    "star1bx": 0,
+    "star1by": 0,
+    "star1bz": 0,
+    "star1ox": 0,
+    "star1oy": 0,
+    "star1oz": 0,
+    "star2bx": 0,
+    "star2by": 0,
+    "star2bz": 0,
+    "star2ox": 0,
+    "star2oy": 0,
+    "star2oz": 0,
+    "star3bx": 0,
+    "star3by": 0,
+    "star3bz": 0,
+    "star3ox": 0,
+    "star3oy": 0,
+    "star3oz": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+EPS: {
+  "volt_brdsup": -1,
+  "temp": -1,
+  "vip_dist_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_batt_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "stat_ch_on": 65535,
+  "stat_ch_ocf": 65535,
+  "batt_stat": 65535,
+  "batt_temp2": -1,
+  "batt_temp3": -1,
+  "volt_vd0": -1,
+  "volt_vd1": -1,
+  "volt_vd2": -1,
+  "vip_cnt_ch00": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch01": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch02": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch03": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch04": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch05": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch06": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch07": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch08": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd1": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd2": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd3": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "vip_cnt_ch09": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch10": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch11": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch12": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch13": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch14": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch15": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd4": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd5": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "stat_ch_ext_on": 65535,
+  "stat_ch_ext_ocf": 65535,
+  "vip_cnt_ch16": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+RC: [5, 4, 180]
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 9,
+      "oscillator_temp": 9216
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 384,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 32768,
+      "oscillator_temp": 4608
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+ADCS State: {
+  "AdcsStateAll": {
+    "attitude_estimation_mode": "Magmeter",
+    "control_mode": "None",
+    "adcs_run_mode": "Enabled",
+    "asgp4_mode": "Off",
+    "cube_control_signal_enabled": true,
+    "cube_control_motor_enabled": true,
+    "cube_sense1_enabled": false,
+    "cube_sense2_enabled": false,
+    "cube_wheel1_enabled": false,
+    "cube_wheel2_enabled": false,
+    "cube_wheel3_enabled": false,
+    "cube_star_enabled": false,
+    "gps_receiver_enabled": false,
+    "gps_lna_power_enabled": false,
+    "motor_driver_enabled": false,
+    "sun_is_above_local_horizon": true,
+    "cube_sense1_communication_error": false,
+    "cube_sense2_communication_error": false,
+    "cube_control_signal_communications_error": false,
+    "cube_control_motor_communications_error": false,
+    "cube_wheel1_communications_error": false,
+    "cube_wheel2_communications_error": false,
+    "cube_wheel3_communications_error": false,
+    "cube_star_communications_error": false,
+    "magnetometer_range_error": false,
+    "cam1_sram_overcurrent_detected": false,
+    "cam1_3v3_overcurrent_detected": false,
+    "cam1_sensor_busy_error": false,
+    "cam1_sensor_detection_error": false,
+    "sun_sensor_range_error": false,
+    "cam2_sram_overcurrent_detected": false,
+    "cam2_3v3_overcurrent_detected": false,
+    "cam2_sensor_busy_error": false,
+    "cam2_sensor_detection_error": false,
+    "nadir_sensor_range_error": false,
+    "rate_sensor_range_error": false,
+    "wheel_speed_range_error": false,
+    "coarse_sun_sensor_error": true,
+    "star_tracker_match_error": false,
+    "star_tracker_overcurrent_detected": false,
+    "orbit_parameters_are_invalid": false,
+    "configuration_is_invalid": false,
+    "control_mode_change_is_not_allowed": false,
+    "estimator_change_is_not_allowed": false,
+    "current_magnetometer_sampling_mode": "MainSignal",
+    "modelled_and_measured_magnetic_field_differs_in_size": false,
+    "node_recovery_error": false,
+    "cube_sense1_runtime_error": false,
+    "cube_sense2_runtime_error": false,
+    "cube_control_signal_runtime_error": false,
+    "cube_control_motor_runtime_error": false,
+    "cube_wheel1_runtime_error": false,
+    "cube_wheel2_runtime_error": false,
+    "cube_wheel3_runtime_error": false,
+    "cube_star_runtime_error": false,
+    "magnetometer_error": false,
+    "rate_sensor_failure": false,
+    "estimated_roll_angle": 0,
+    "estimated_pitch_angle": 0,
+    "estimated_yaw_angle": 0,
+    "estimated_q1": 0,
+    "estimated_q2": 0,
+    "estimated_q3": 0,
+    "estimated_x_angular_rate": 52,
+    "estimated_y_angular_rate": 78,
+    "estimated_z_angular_rate": -65,
+    "x_position": -12086,
+    "y_position": 3521,
+    "z_position": -22379,
+    "x_velocity": -22885,
+    "y_velocity": 15682,
+    "z_velocity": 14853,
+    "latitude": -6064,
+    "longitude": 12805,
+    "altitude": 11472,
+    "ecef_position_x": 0,
+    "ecef_position_y": 0,
+    "ecef_position_z": 0
+  }
+}
+ADCS Measurements: {
+  "AdcsMeasurements": {
+    "mag_x": 734,
+    "mag_y": 3357,
+    "mag_z": 1313,
+    "coarse_sun_x": 0,
+    "coarse_sun_y": 0,
+    "coarse_sun_z": 0,
+    "sun_x": 0,
+    "sun_y": 0,
+    "sun_z": 0,
+    "nadir_x": 0,
+    "nadir_y": 0,
+    "nadir_z": 0,
+    "ang_rate_x": 74,
+    "ang_rate_y": 63,
+    "ang_rate_z": -82,
+    "wheel_speed_x": 0,
+    "wheel_speed_y": 0,
+    "wheel_speed_z": 0,
+    "star1bx": 0,
+    "star1by": 0,
+    "star1bz": 0,
+    "star1ox": 0,
+    "star1oy": 0,
+    "star1oz": 0,
+    "star2bx": 0,
+    "star2by": 0,
+    "star2bz": 0,
+    "star2ox": 0,
+    "star2oy": 0,
+    "star2oz": 0,
+    "star3bx": 0,
+    "star3by": 0,
+    "star3bz": 0,
+    "star3ox": 0,
+    "star3oy": 0,
+    "star3oz": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+RC: [8, 4, 168]
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 144,
+      "oscillator_temp": 16384
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 192,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 72,
+      "oscillator_temp": 36864
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+ADCS State: {
+  "AdcsStateAll": {
+    "attitude_estimation_mode": "Magmeter",
+    "control_mode": "None",
+    "adcs_run_mode": "Enabled",
+    "asgp4_mode": "Off",
+    "cube_control_signal_enabled": true,
+    "cube_control_motor_enabled": true,
+    "cube_sense1_enabled": false,
+    "cube_sense2_enabled": false,
+    "cube_wheel1_enabled": false,
+    "cube_wheel2_enabled": false,
+    "cube_wheel3_enabled": false,
+    "cube_star_enabled": false,
+    "gps_receiver_enabled": false,
+    "gps_lna_power_enabled": false,
+    "motor_driver_enabled": false,
+    "sun_is_above_local_horizon": true,
+    "cube_sense1_communication_error": false,
+    "cube_sense2_communication_error": false,
+    "cube_control_signal_communications_error": false,
+    "cube_control_motor_communications_error": false,
+    "cube_wheel1_communications_error": false,
+    "cube_wheel2_communications_error": false,
+    "cube_wheel3_communications_error": false,
+    "cube_star_communications_error": false,
+    "magnetometer_range_error": false,
+    "cam1_sram_overcurrent_detected": false,
+    "cam1_3v3_overcurrent_detected": false,
+    "cam1_sensor_busy_error": false,
+    "cam1_sensor_detection_error": false,
+    "sun_sensor_range_error": false,
+    "cam2_sram_overcurrent_detected": false,
+    "cam2_3v3_overcurrent_detected": false,
+    "cam2_sensor_busy_error": false,
+    "cam2_sensor_detection_error": false,
+    "nadir_sensor_range_error": false,
+    "rate_sensor_range_error": false,
+    "wheel_speed_range_error": false,
+    "coarse_sun_sensor_error": false,
+    "star_tracker_match_error": false,
+    "star_tracker_overcurrent_detected": false,
+    "orbit_parameters_are_invalid": false,
+    "configuration_is_invalid": false,
+    "control_mode_change_is_not_allowed": false,
+    "estimator_change_is_not_allowed": false,
+    "current_magnetometer_sampling_mode": "MainSignal",
+    "modelled_and_measured_magnetic_field_differs_in_size": false,
+    "node_recovery_error": false,
+    "cube_sense1_runtime_error": false,
+    "cube_sense2_runtime_error": false,
+    "cube_control_signal_runtime_error": false,
+    "cube_control_motor_runtime_error": false,
+    "cube_wheel1_runtime_error": false,
+    "cube_wheel2_runtime_error": false,
+    "cube_wheel3_runtime_error": false,
+    "cube_star_runtime_error": false,
+    "magnetometer_error": false,
+    "rate_sensor_failure": false,
+    "estimated_roll_angle": 0,
+    "estimated_pitch_angle": 0,
+    "estimated_yaw_angle": 0,
+    "estimated_q1": 0,
+    "estimated_q2": 0,
+    "estimated_q3": 0,
+    "estimated_x_angular_rate": 21,
+    "estimated_y_angular_rate": 70,
+    "estimated_z_angular_rate": -93,
+    "x_position": -13468,
+    "y_position": 4482,
+    "z_position": -21395,
+    "x_velocity": -21696,
+    "y_velocity": 15310,
+    "z_velocity": 16897,
+    "latitude": -5644,
+    "longitude": 12562,
+    "altitude": 11116,
+    "ecef_position_x": 0,
+    "ecef_position_y": 0,
+    "ecef_position_z": 0
+  }
+}
+ADCS Measurements: {
+  "AdcsMeasurements": {
+    "mag_x": -2634,
+    "mag_y": 2645,
+    "mag_z": -1380,
+    "coarse_sun_x": -7604,
+    "coarse_sun_y": 3578,
+    "coarse_sun_z": 5420,
+    "sun_x": 0,
+    "sun_y": 0,
+    "sun_z": 0,
+    "nadir_x": 0,
+    "nadir_y": 0,
+    "nadir_z": 0,
+    "ang_rate_x": 53,
+    "ang_rate_y": 50,
+    "ang_rate_z": -78,
+    "wheel_speed_x": 0,
+    "wheel_speed_y": 0,
+    "wheel_speed_z": 0,
+    "star1bx": 0,
+    "star1by": 0,
+    "star1bz": 0,
+    "star1ox": 0,
+    "star1oy": 0,
+    "star1oz": 0,
+    "star2bx": 0,
+    "star2by": 0,
+    "star2bz": 0,
+    "star2ox": 0,
+    "star2oy": 0,
+    "star2oz": 0,
+    "star3bx": 0,
+    "star3by": 0,
+    "star3bz": 0,
+    "star3ox": 0,
+    "star3oy": 0,
+    "star3oz": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:36:17+10:00
+EPS: {
+  "volt_brdsup": -1,
+  "temp": -1,
+  "vip_dist_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_batt_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "stat_ch_on": 65535,
+  "stat_ch_ocf": 65535,
+  "batt_stat": 65535,
+  "batt_temp2": -1,
+  "batt_temp3": -1,
+  "volt_vd0": -1,
+  "volt_vd1": -1,
+  "volt_vd2": -1,
+  "vip_cnt_ch00": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch01": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch02": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch03": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch04": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch05": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch06": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch07": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch08": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd1": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd2": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd3": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "vip_cnt_ch09": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch10": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch11": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch12": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch13": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch14": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch15": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd4": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd5": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "stat_ch_ext_on": 65535,
+  "stat_ch_ext_ocf": 65535,
+  "vip_cnt_ch16": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+RC: [5, 4, 180]
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 9,
+      "oscillator_temp": 9216
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 384,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 32768,
+      "oscillator_temp": 4608
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "CUAVA-2"
+Time: 2024-08-21T05:35:16+10:00
+ADCS State: {
+  "AdcsStateAll": {
+    "attitude_estimation_mode": "Magmeter",
+    "control_mode": "None",
+    "adcs_run_mode": "Enabled",
+    "asgp4_mode": "Off",
+    "cube_control_signal_enabled": true,
+    "cube_control_motor_enabled": true,
+    "cube_sense1_enabled": false,
+    "cube_sense2_enabled": false,
+    "cube_wheel1_enabled": false,
+    "cube_wheel2_enabled": false,
+    "cube_wheel3_enabled": false,
+    "cube_star_enabled": false,
+    "gps_receiver_enabled": false,
+    "gps_lna_power_enabled": false,
+    "motor_driver_enabled": false,
+    "sun_is_above_local_horizon": true,
+    "cube_sense1_communication_error": false,
+    "cube_sense2_communication_error": false,
+    "cube_control_signal_communications_error": false,
+    "cube_control_motor_communications_error": false,
+    "cube_wheel1_communications_error": false,
+    "cube_wheel2_communications_error": false,
+    "cube_wheel3_communications_error": false,
+    "cube_star_communications_error": false,
+    "magnetometer_range_error": false,
+    "cam1_sram_overcurrent_detected": false,
+    "cam1_3v3_overcurrent_detected": false,
+    "cam1_sensor_busy_error": false,
+    "cam1_sensor_detection_error": false,
+    "sun_sensor_range_error": false,
+    "cam2_sram_overcurrent_detected": false,
+    "cam2_3v3_overcurrent_detected": false,
+    "cam2_sensor_busy_error": false,
+    "cam2_sensor_detection_error": false,
+    "nadir_sensor_range_error": false,
+    "rate_sensor_range_error": false,
+    "wheel_speed_range_error": false,
+    "coarse_sun_sensor_error": true,
+    "star_tracker_match_error": false,
+    "star_tracker_overcurrent_detected": false,
+    "orbit_parameters_are_invalid": false,
+    "configuration_is_invalid": false,
+    "control_mode_change_is_not_allowed": false,
+    "estimator_change_is_not_allowed": false,
+    "current_magnetometer_sampling_mode": "MainSignal",
+    "modelled_and_measured_magnetic_field_differs_in_size": false,
+    "node_recovery_error": false,
+    "cube_sense1_runtime_error": false,
+    "cube_sense2_runtime_error": false,
+    "cube_control_signal_runtime_error": false,
+    "cube_control_motor_runtime_error": false,
+    "cube_wheel1_runtime_error": false,
+    "cube_wheel2_runtime_error": false,
+    "cube_wheel3_runtime_error": false,
+    "cube_star_runtime_error": false,
+    "magnetometer_error": false,
+    "rate_sensor_failure": false,
+    "estimated_roll_angle": 0,
+    "estimated_pitch_angle": 0,
+    "estimated_yaw_angle": 0,
+    "estimated_q1": 0,
+    "estimated_q2": 0,
+    "estimated_q3": 0,
+    "estimated_x_angular_rate": 52,
+    "estimated_y_angular_rate": 78,
+    "estimated_z_angular_rate": -65,
+    "x_position": -12086,
+    "y_position": 3521,
+    "z_position": -22379,
+    "x_velocity": -22885,
+    "y_velocity": 15682,
+    "z_velocity": 14853,
+    "latitude": -6064,
+    "longitude": 12805,
+    "altitude": 11472,
+    "ecef_position_x": 0,
+    "ecef_position_y": 0,
+    "ecef_position_z": 0
+  }
+}
+ADCS Measurements: {
+  "AdcsMeasurements": {
+    "mag_x": 734,
+    "mag_y": 3357,
+    "mag_z": 1313,
+    "coarse_sun_x": 0,
+    "coarse_sun_y": 0,
+    "coarse_sun_z": 0,
+    "sun_x": 0,
+    "sun_y": 0,
+    "sun_z": 0,
+    "nadir_x": 0,
+    "nadir_y": 0,
+    "nadir_z": 0,
+    "ang_rate_x": 74,
+    "ang_rate_y": 63,
+    "ang_rate_z": -82,
+    "wheel_speed_x": 0,
+    "wheel_speed_y": 0,
+    "wheel_speed_z": 0,
+    "star1bx": 0,
+    "star1by": 0,
+    "star1bz": 0,
+    "star1ox": 0,
+    "star1oy": 0,
+    "star1oz": 0,
+    "star2bx": 0,
+    "star2by": 0,
+    "star2bz": 0,
+    "star2ox": 0,
+    "star2oy": 0,
+    "star2oz": 0,
+    "star3bx": 0,
+    "star3by": 0,
+    "star3bz": 0,
+    "star3ox": 0,
+    "star3oy": 0,
+    "star3oz": 0
+  }
+}

@@ -1,0 +1,245 @@
+Sat: "WS-1"
+Time: 2024-08-30T14:57:37+10:00
+ADCS State: {
+  "RawCam1Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 6
+  }
+}
+ADCS Measurements: {
+  "RawCam2Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 4
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T14:57:37+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 32768,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 4608,
+      "oscillator_temp": 16384
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 0,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 0,
+      "oscillator_temp": 0
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T14:57:37+10:00
+EPS: {
+  "volt_brdsup": 3294,
+  "temp": -160,
+  "vip_dist_input": {
+    "volt": 15731,
+    "curr": 103,
+    "pwr": 1390
+  },
+  "vip_batt_input": {
+    "volt": 15740,
+    "curr": -104,
+    "pwr": -1480
+  },
+  "stat_ch_on": 355,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 238,
+  "batt_temp3": 356,
+  "volt_vd0": 15731,
+  "volt_vd1": 4983,
+  "volt_vd2": 3294,
+  "vip_cnt_ch00": {
+    "volt": 15726,
+    "curr": 24,
+    "pwr": 400
+  },
+  "vip_cnt_ch01": {
+    "volt": 4976,
+    "curr": 9,
+    "pwr": 50
+  },
+  "vip_cnt_ch02": {
+    "volt": -190,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -10,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -167,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3339,
+    "curr": 59,
+    "pwr": 190
+  },
+  "vip_cnt_ch06": {
+    "volt": 3340,
+    "curr": 6,
+    "pwr": 20
+  },
+  "vip_cnt_ch07": {
+    "volt": -195,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 3333,
+    "curr": 202,
+    "pwr": 490
+  },
+  "ccd1": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd2": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd3": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "vip_cnt_ch09": {
+    "volt": -181,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -180,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -182,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -182,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -17,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -35,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -188,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 368,
+    "curr": 0,
+    "pwr": 0
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T15:01:12+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 12288,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 144,
+      "oscillator_temp": 2304
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 6144,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 36,
+      "oscillator_temp": 1152
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T15:01:12+10:00
+ADCS State: {
+  "RawCam1Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 6
+  }
+}
+ADCS Measurements: {
+  "RawCam2Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 4
+  }
+}

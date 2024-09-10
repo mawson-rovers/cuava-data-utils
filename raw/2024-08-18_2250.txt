@@ -1,0 +1,145 @@
+WS-1
+PiuHk
+mode: PIUHkSel
+{
+  "volt_brdsup": 3318,
+  "temp": -40,
+  "vip_dist_input": {
+    "volt": 15874,
+    "curr": 46,
+    "pwr": 740
+  },
+  "vip_batt_input": {
+    "volt": 15877,
+    "curr": -50,
+    "pwr": -810
+  },
+  "stat_ch_on": 35,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 499,
+  "batt_temp3": 462,
+  "volt_vd0": 15874,
+  "volt_vd1": 5005,
+  "volt_vd2": 3318,
+  "vip_cnt_ch00": {
+    "volt": 15871,
+    "curr": 26,
+    "pwr": 380
+  },
+  "vip_cnt_ch01": {
+    "volt": 5007,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch02": {
+    "volt": -26,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -3,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -4,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3338,
+    "curr": 58,
+    "pwr": 190
+  },
+  "vip_cnt_ch06": {
+    "volt": -187,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch07": {
+    "volt": -196,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 7,
+    "curr": 0,
+    "pwr": 0
+  },
+  "ccd1": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd2": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd3": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "vip_cnt_ch09": {
+    "volt": -179,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -178,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -177,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -167,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -12,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -31,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -184,
+    "curr": 0,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 380,
+    "curr": -1,
+    "pwr": 0
+  }
+}
+
+GetTimeRemaining
+125899

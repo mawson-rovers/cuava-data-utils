@@ -1,0 +1,386 @@
+Sat: "WS-1"
+Time: 2024-08-30T13:28:17+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 6144,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 9216,
+      "oscillator_temp": 9
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 0,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 0,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 0,
+      "oscillator_temp": 0
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T13:28:17+10:00
+ADCS State: {
+  "RawCam1Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 6
+  }
+}
+ADCS Measurements: {
+  "RawCam2Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 4
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T13:28:17+10:00
+EPS: {
+  "volt_brdsup": -1,
+  "temp": -1,
+  "vip_dist_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_batt_input": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "stat_ch_on": 65535,
+  "stat_ch_ocf": 65535,
+  "batt_stat": 65535,
+  "batt_temp2": -1,
+  "batt_temp3": -1,
+  "volt_vd0": -1,
+  "volt_vd1": -1,
+  "volt_vd2": -1,
+  "vip_cnt_ch00": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch01": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch02": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch03": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch04": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch05": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch06": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch07": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch08": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd1": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd2": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd3": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "vip_cnt_ch09": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch10": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch11": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch12": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch13": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch14": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "vip_cnt_ch15": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  },
+  "ccd4": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "ccd5": {
+    "volt_in_mppt": -1,
+    "curr_in_mppt": -1,
+    "volt_out_mppt": -1,
+    "curr_out_mppt": -1
+  },
+  "stat_ch_ext_on": 65535,
+  "stat_ch_ext_ocf": 65535,
+  "vip_cnt_ch16": {
+    "volt": -1,
+    "curr": -1,
+    "pwr": -10
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T13:27:46+10:00
+TX: {
+  "TxTelemetry": {
+    "rf_reflected": 10,
+    "rf_forward": 81,
+    "telemetry": {
+      "voltage": 6144,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 9216,
+      "oscillator_temp": 32768
+    }
+  }
+}
+RX: {
+  "RxTelemetry": {
+    "doppler_offset": 32640,
+    "signal_strength": 0,
+    "telemetry": {
+      "voltage": 3072,
+      "total_current": 0,
+      "tx_current": 0,
+      "rx_current": 0,
+      "pa_current": 0,
+      "pa_temp": 4608,
+      "oscillator_temp": 8192
+    },
+    "packed_doppler": 0,
+    "packed_rssi": 0
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T13:27:46+10:00
+ADCS State: {
+  "RawCam1Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 0,
+    "detection_result": 1
+  }
+}
+ADCS Measurements: {
+  "RawCam2Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 0,
+    "detection_result": 1
+  }
+}
+Sat: "WS-1"
+Time: 2024-08-30T13:27:46+10:00
+EPS: {
+  "volt_brdsup": 3290,
+  "temp": -480,
+  "vip_dist_input": {
+    "volt": 15721,
+    "curr": 81,
+    "pwr": 1290
+  },
+  "vip_batt_input": {
+    "volt": 15726,
+    "curr": -85,
+    "pwr": -1420
+  },
+  "stat_ch_on": 355,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 338,
+  "batt_temp3": 449,
+  "volt_vd0": 15721,
+  "volt_vd1": 4983,
+  "volt_vd2": 3290,
+  "vip_cnt_ch00": {
+    "volt": 15719,
+    "curr": 28,
+    "pwr": 400
+  },
+  "vip_cnt_ch01": {
+    "volt": 4975,
+    "curr": 8,
+    "pwr": 50
+  },
+  "vip_cnt_ch02": {
+    "volt": -190,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -12,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -169,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3338,
+    "curr": 48,
+    "pwr": 190
+  },
+  "vip_cnt_ch06": {
+    "volt": 3340,
+    "curr": 6,
+    "pwr": 20
+  },
+  "vip_cnt_ch07": {
+    "volt": -195,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 3334,
+    "curr": 119,
+    "pwr": 430
+  },
+  "ccd1": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd2": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd3": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "vip_cnt_ch09": {
+    "volt": -182,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -181,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -181,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -181,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -16,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -33,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -187,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 370,
+    "curr": 0,
+    "pwr": 0
+  }
+}

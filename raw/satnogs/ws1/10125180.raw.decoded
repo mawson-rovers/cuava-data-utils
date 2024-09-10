@@ -1,0 +1,18 @@
+Sat: "WS-1"
+Time: 2024-08-29T18:16:20+10:00
+ADCS State: {
+  "RawCam1Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 6
+  }
+}
+ADCS Measurements: {
+  "RawCam2Sensor": {
+    "centroid_x": 0,
+    "centroid_y": 0,
+    "capture_status": 2,
+    "detection_result": 5
+  }
+}

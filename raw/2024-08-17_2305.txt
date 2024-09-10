@@ -1,0 +1,430 @@
+CUAVA-2
+mode: PIUHkSel
+{
+  "volt_brdsup": 3296,
+  "temp": -40,
+  "vip_dist_input": {
+    "volt": 15857,
+    "curr": 54,
+    "pwr": 780
+  },
+  "vip_batt_input": {
+    "volt": 15860,
+    "curr": -54,
+    "pwr": -860
+  },
+  "stat_ch_on": 35,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 295,
+  "batt_temp3": 300,
+  "volt_vd0": 15857,
+  "volt_vd1": 4982,
+  "volt_vd2": 3296,
+  "vip_cnt_ch00": {
+    "volt": 15851,
+    "curr": 26,
+    "pwr": 400
+  },
+  "vip_cnt_ch01": {
+    "volt": 4975,
+    "curr": 9,
+    "pwr": 40
+  },
+  "vip_cnt_ch02": {
+    "volt": -190,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -10,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -169,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3340,
+    "curr": 58,
+    "pwr": 180
+  },
+  "vip_cnt_ch06": {
+    "volt": -139,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch07": {
+    "volt": -196,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 3,
+    "curr": 0,
+    "pwr": 0
+  },
+  "ccd1": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd2": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd3": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "vip_cnt_ch09": {
+    "volt": -181,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -179,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -179,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -178,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -14,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -35,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -187,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 369,
+    "curr": 0,
+    "pwr": 0
+  }
+}
+
+Watchdog Kicked at 23:07:00
+GetTimeRemaining
+172413
+
+mode: PIUHkSel
+{
+  "volt_brdsup": 3290,
+  "temp": -280,
+  "vip_dist_input": {
+    "volt": 15833,
+    "curr": 47,
+    "pwr": 780
+  },
+  "vip_batt_input": {
+    "volt": 15835,
+    "curr": -55,
+    "pwr": -860
+  },
+  "stat_ch_on": 35,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 228,
+  "batt_temp3": 290,
+  "volt_vd0": 15833,
+  "volt_vd1": 4986,
+  "volt_vd2": 3290,
+  "vip_cnt_ch00": {
+    "volt": 15832,
+    "curr": 26,
+    "pwr": 390
+  },
+  "vip_cnt_ch01": {
+    "volt": 4979,
+    "curr": 10,
+    "pwr": 50
+  },
+  "vip_cnt_ch02": {
+    "volt": -190,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -11,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -168,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3340,
+    "curr": 56,
+    "pwr": 180
+  },
+  "vip_cnt_ch06": {
+    "volt": -143,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch07": {
+    "volt": -196,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 4,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd1": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd2": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd3": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "vip_cnt_ch09": {
+    "volt": -181,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -180,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -181,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -180,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -17,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -35,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -188,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 368,
+    "curr": -1,
+    "pwr": 0
+  }
+}
+
+WS-1
+PiuHk
+mode: PIUHkSel
+{
+  "volt_brdsup": 3296,
+  "temp": -40,
+  "vip_dist_input": {
+    "volt": 15848,
+    "curr": 46,
+    "pwr": 750
+  },
+  "vip_batt_input": {
+    "volt": 15852,
+    "curr": -51,
+    "pwr": -820
+  },
+  "stat_ch_on": 35,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 557,
+  "batt_temp3": 566,
+  "volt_vd0": 15848,
+  "volt_vd1": 5004,
+  "volt_vd2": 3296,
+  "vip_cnt_ch00": {
+    "volt": 15849,
+    "curr": 24,
+    "pwr": 390
+  },
+  "vip_cnt_ch01": {
+    "volt": 5005,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch02": {
+    "volt": -25,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -2,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -4,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3340,
+    "curr": 64,
+    "pwr": 190
+  },
+  "vip_cnt_ch06": {
+    "volt": -186,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch07": {
+    "volt": -196,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 8,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd1": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd2": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd3": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "vip_cnt_ch09": {
+    "volt": -178,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -177,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -177,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -166,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -14,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -32,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -183,
+    "curr": -1,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 0,
+    "curr_in_mppt": 0,
+    "volt_out_mppt": 0,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 379,
+    "curr": -1,
+    "pwr": 0
+  }
+}
+

@@ -1,0 +1,146 @@
+CUAVA-2
+
+GetTimeRemaining
+167400
+
+PiuHk
+mode: PIUHkSel
+{
+  "volt_brdsup": 3296,
+  "temp": 40,
+  "vip_dist_input": {
+    "volt": 15906,
+    "curr": 55,
+    "pwr": 930
+  },
+  "vip_batt_input": {
+    "volt": 15905,
+    "curr": -31,
+    "pwr": -470
+  },
+  "stat_ch_on": 355,
+  "stat_ch_ocf": 0,
+  "batt_stat": 32768,
+  "batt_temp2": 403,
+  "batt_temp3": 435,
+  "volt_vd0": 15906,
+  "volt_vd1": 4983,
+  "volt_vd2": 3296,
+  "vip_cnt_ch00": {
+    "volt": 15905,
+    "curr": 27,
+    "pwr": 400
+  },
+  "vip_cnt_ch01": {
+    "volt": 4979,
+    "curr": 7,
+    "pwr": 40
+  },
+  "vip_cnt_ch02": {
+    "volt": -188,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch03": {
+    "volt": -12,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch04": {
+    "volt": -168,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch05": {
+    "volt": 3339,
+    "curr": 55,
+    "pwr": 180
+  },
+  "vip_cnt_ch06": {
+    "volt": 3342,
+    "curr": 6,
+    "pwr": 20
+  },
+  "vip_cnt_ch07": {
+    "volt": -195,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch08": {
+    "volt": 3339,
+    "curr": 42,
+    "pwr": 90
+  },
+  "ccd1": {
+    "volt_in_mppt": 11299,
+    "curr_in_mppt": 36,
+    "volt_out_mppt": 15811,
+    "curr_out_mppt": 32
+  },
+  "ccd2": {
+    "volt_in_mppt": 12386,
+    "curr_in_mppt": -13,
+    "volt_out_mppt": 15852,
+    "curr_out_mppt": -3
+  },
+  "ccd3": {
+    "volt_in_mppt": 430,
+    "curr_in_mppt": -26,
+    "volt_out_mppt": 15893,
+    "curr_out_mppt": -3
+  },
+  "vip_cnt_ch09": {
+    "volt": -180,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch10": {
+    "volt": -180,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch11": {
+    "volt": -180,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch12": {
+    "volt": -178,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch13": {
+    "volt": -14,
+    "curr": 0,
+    "pwr": 0
+  },
+  "vip_cnt_ch14": {
+    "volt": -32,
+    "curr": -1,
+    "pwr": 0
+  },
+  "vip_cnt_ch15": {
+    "volt": -187,
+    "curr": 0,
+    "pwr": 0
+  },
+  "ccd4": {
+    "volt_in_mppt": 492,
+    "curr_in_mppt": -20,
+    "volt_out_mppt": 15729,
+    "curr_out_mppt": 0
+  },
+  "ccd5": {
+    "volt_in_mppt": 451,
+    "curr_in_mppt": -23,
+    "volt_out_mppt": 15770,
+    "curr_out_mppt": 0
+  },
+  "stat_ch_ext_on": 0,
+  "stat_ch_ext_ocf": 0,
+  "vip_cnt_ch16": {
+    "volt": 368,
+    "curr": 0,
+    "pwr": 0
+  }
+}
