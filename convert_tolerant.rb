@@ -39,14 +39,14 @@ def narrow_eps(record_h)
     batt_power: record.vip_batt_input.pwr,
     ccd1_volt: record.ccd1.volt_out_mppt,
     ccd1_curr: record.ccd1.curr_out_mppt,
-    ccd2_volt: record.ccd1.volt_out_mppt,
-    ccd2_curr: record.ccd1.curr_out_mppt,
-    ccd3_volt: record.ccd1.volt_out_mppt,
-    ccd3_curr: record.ccd1.curr_out_mppt,
-    ccd4_volt: record.ccd1.volt_out_mppt,
-    ccd4_curr: record.ccd1.curr_out_mppt,
-    ccd5_volt: record.ccd1.volt_out_mppt,
-    ccd5_curr: record.ccd1.curr_out_mppt
+    ccd2_volt: record.ccd2.volt_out_mppt,
+    ccd2_curr: record.ccd2.curr_out_mppt,
+    ccd3_volt: record.ccd3.volt_out_mppt,
+    ccd3_curr: record.ccd3.curr_out_mppt,
+    ccd4_volt: record.ccd4.volt_out_mppt,
+    ccd4_curr: record.ccd4.curr_out_mppt,
+    ccd5_volt: record.ccd5.volt_out_mppt,
+    ccd5_curr: record.ccd5.curr_out_mppt
   }
 
   powerChannelNames.keys.each { |key|
