@@ -28,3 +28,31 @@ Edit the `adcs2csv.jq` file to select the columns you want in the output.
 
 To automatically convert all the files in the `json/` folder, run the provided `convert.sh` script.
 All the resulting files will be put in the `csv/` folder, overwriting any files already there.
+
+### Access to CUAVA data bucket
+
+Make a profile to be used to assume the required role to access the bucket in `~/.aws/config`
+
+```ini
+[default]
+region = ap-southeast-2
+
+[profile fetchbeacon]
+role_arn = arn:aws:iam::637423504145:role/cargo-lambda-role-e28d913c-a7fb-4e16-a946-b7bf6a1d7768
+source_profile = default
+```
+
+Add an accesskey for your AWS account in `~/.aws/credentials`
+
+```ini
+[default]
+aws_access_key_id = {{ID}}
+aws_secret_access_key = {{KEY}}
+```
+
+Use the s3 commands with the profile to access the bucket:
+
+```sh
+aws s3 ls --profile fetchbeacon s3://cuava-beacons/
+aws s3 cp --profile fetchbeacon s3://cuava-beacons/example.json example.json
+```
