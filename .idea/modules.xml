@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cuava-data.iml" filepath="$PROJECT_DIR$/.idea/cuava-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cuava-data-utils.iml" filepath="$PROJECT_DIR$/.idea/cuava-data-utils.iml" />
     </modules>
   </component>
 </project>
